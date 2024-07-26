@@ -5,6 +5,7 @@ import Navbar from './components/navbar/Navbar'
    return (
      <div className='app'>
      <Navbar/>
+   
        
      </div>
    )

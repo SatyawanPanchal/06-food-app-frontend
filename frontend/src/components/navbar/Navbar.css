@@ -1,0 +1,48 @@
+.navbar{
+  padding: 20px 0px;
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+
+}
+
+.navbar .logo{
+    width: 150px;
+ 
+}
+
+.navbar-menu{
+    list-style: none;
+    gap: 20px;
+    color:#49557e;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+} 
+
+.navbar-right{
+    display: flex;
+    gap: 2.5rem;
+    align-items: center;
+
+ }
+
+ .navbar button{
+    background: transparent;
+    font-size: 1rem;
+    color:#49557e;
+    border: 1px solid tomato;
+    padding: 10px 30px;
+    border-radius:30px ;
+ }
+
+ .navbar button:hover{
+     background-color: tomato;
+     transition: 0.3s;
+     
+ }
+
+ .navbar-menu .active{
+    padding: 2px;
+    border-bottom: 1px solid tomato;
+ }
