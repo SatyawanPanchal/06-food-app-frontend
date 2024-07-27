@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
  *{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: outfit;
-  background-color:rgb(180, 177, 177);
+ 
  }
 
  body{
