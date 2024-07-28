@@ -1,4 +1,4 @@
-import React from 'react'
+ 
 import './exploreMenu.css'
  import {menu_list} from '../../assets/assets'
 
