@@ -30,12 +30,12 @@ const Footer = () => {
             <li>Satyawan@gmail.com</li>
           </ul>
 
-          <hr />
           <p className="footer-copyright">
             Copyright@ Satyawan Panchal company
           </p>
         </div>
       </div>
+      <hr />
     </div>
   );
 };
